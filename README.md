@@ -12,7 +12,7 @@ in professional development for more than half a year.
 * C#/Python/JavaScript languages
 * .NET, WinForms, WebForms, MVC, Web API / C#-platforms
 * MS SQL Server, MySQL, PostgreSQL / databases
-* YouTrack/Trello
+* YouTrack/Trello/Azure DevOps
 * GitHub/GitLab repositories
 
 
@@ -39,7 +39,7 @@ in professional development for more than half a year.
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/LyubovKhudyakova)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/lyubov-khudyakova-a782341b6/)
 [![GitLab](https://img.shields.io/badge/-GitLab-black?style=for-the-badge&logo=GitLab)](https://gitlab.com/DeveloperKhudyakova)
-<div>📫 How to reach me: <a href='mailto:DeveloperKhudyakova@yandex.ru'>DeveloperKhudyakova@yandex.ru</a></div>
+<div>📫 How to reach me: <a href='mailto:lvoborina@yandex.ru'>lvoborina@yandex.ru</a></div>
 
 <div align="center" style="margin: 40px 0">
    <img width="130px" src="https://komarev.com/ghpvc/?username=KhudyakovaLyubov3&color=blue&label=Profile+views">
