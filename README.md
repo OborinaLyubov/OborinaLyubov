@@ -37,7 +37,7 @@ in professional development for more than half a year.
 ### Follow me:
 
 [![Habr](https://img.shields.io/badge/-Habr-black?style=for-the-badge&logo=Habr)](https://habr.com/ru/users/khudyakovalyubov/)
-[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/LyubovKhudyakova)
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/lvoborina)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/lyubov-khudyakova-a782341b6/)
 [![GitLab](https://img.shields.io/badge/-GitLab-black?style=for-the-badge&logo=GitLab)](https://gitlab.com/DeveloperKhudyakova)
 <div>📫 How to reach me: <a href='mailto:lvoborina@yandex.ru'>lvoborina@yandex.ru</a></div>
