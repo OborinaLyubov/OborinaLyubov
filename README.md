@@ -25,7 +25,6 @@ in professional development for more than half a year.
 ![MVC](https://img.shields.io/badge/-MVC-black?style=for-the-badge&logo=MVC)
 ![VisuaStudio](https://img.shields.io/badge/-VisuaStudio-black?style=for-the-badge&logo=VisuaStudio)
 ![SQL](https://img.shields.io/badge/-SQLServer-black?style=for-the-badge&logo=SQLServer)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=Bootstrap)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS)
 
