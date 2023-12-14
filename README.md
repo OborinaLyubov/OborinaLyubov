@@ -7,7 +7,7 @@ in professional development for more than half a year.
 * [BlockChain](https://github.com/OborinaLyubov/BlockChain) - desktop application for studying and working with blockchain. - (development 2021 year - development is currently on hold)
 * [Hackathon_CODe_team](https://github.com/OborinaLyubov/Hackathon_CODe_team) - web-application using smart contracts in the blockchain for working with documents (in the stage of active development and implementation of tasks). - (project-prototype 2021 year for hackathon "Digital breakthrough")
 * [TravelPlaner](https://github.com/OborinaLyubov/TravelPlaner) - service guide with the ability to share information about attractions, habitats and booking hotels / transport. - (new project - initial stage of development)
-
+* [EmailSenderLib](https://github.com/OborinaLyubov/EmailSenderLib) - library for interacting with a mail server, sending messages. Used in other projects.
 ### 🛠 Technical stack
 
 * C#/Python/JavaScript languages
