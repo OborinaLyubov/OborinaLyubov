@@ -11,11 +11,12 @@ in professional development for more than half a year.
 * [EmailSenderLib](https://github.com/OborinaLyubov/EmailSenderLib/tree/main) - library for interacting with a mail server, sending messages. Used in other projects.
 ### 🛠 Technical stack
 
-* C#/Python/JavaScript languages
-* .NET, WinForms, WebForms, MVC, Web API / C#-platforms
-* MS SQL Server, MySQL, PostgreSQL / databases
-* YouTrack/Trello/Azure DevOps
-* GitHub/GitLab repositories
+* C#, Python, JavaScript / languages
+* .NET Core/Framework, WinForms, MVC, Web API / C#-platforms
+* MS SQL Server, PostgreSQL / databases
+* YouTrack, Azure DevOps, Jira / tracker tasks
+* Confluence, GitBook / documentation
+* GitHub, GitLab / repositories
 
 
 ### Language and Tools
@@ -39,9 +40,5 @@ in professional development for more than half a year.
 [![Habr](https://img.shields.io/badge/-Habr-black?style=for-the-badge&logo=Habr)](https://habr.com/ru/users/khudyakovalyubov/)
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/lvoborina)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/lyubov-khudyakova-a782341b6/)
-[![GitLab](https://img.shields.io/badge/-GitLab-black?style=for-the-badge&logo=GitLab)](https://gitlab.com/DeveloperKhudyakova)
+[![GitLab](https://img.shields.io/badge/-GitLab-black?style=for-the-badge&logo=GitLab)](https://gitlab.com/OborinaLyubov)
 <div>📫 How to reach me: <a href='mailto:lvoborina@yandex.ru'>lvoborina@yandex.ru</a></div>
-
-<div align="center" style="margin: 40px 0">
-   <img width="130px" src="https://komarev.com/ghpvc/?username=KhudyakovaLyubov3&color=blue&label=Profile+views">
-</div>
